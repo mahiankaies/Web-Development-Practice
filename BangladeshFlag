@@ -1,0 +1,45 @@
+<!Doctype html>
+<html>
+<head>
+      <title>BangladeshFlag</title>
+		<style>
+.greenbox{
+width:700px;
+height:400PX;
+background:green;
+POSITION:relative;
+margin: auto;
+margin-top: 40px;
+box-shadow: .75cm .75cm 1cm;
+
+	}
+		
+		.redbox{
+    width:200px;
+    height:200px;	
+	background:red;
+	position: absolute;
+	top: 0px;
+	bottom: 480px;
+	left: 0px;
+	right: 0px;
+	margin: auto;
+	border-radius:50%;
+	}
+	
+    .text{
+text-align: center;
+font-size: 80px;
+font-family: arial black;
+text-shadow: 3px;
+}
+ </style>
+ </head>
+<body>
+<div class="greenbox"></div>
+
+<div class="redbox"></div>
+<div><h1 class="text"> Bangladesh Flag </h1></div>
+
+</body>
+</html> 
